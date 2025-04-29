@@ -15,7 +15,7 @@ The Rock Rapids community applications ecosystem consists of eight interconnecte
 - [Rockrapids.INFO](https://rockrapids.github.io/FOSS/0/): The central hub and top-level gateway to all Rock Rapids applications
 - [Rockrapids.ART](https://rockrapids.github.io/FOSS/1/): Information about arts, crafts, creative endeavors that showcases Rock Rapids citizens.
 - [Rockrapids.FUN](https://rockrapids.github.io/FOSS/2/): Highlighting recreational activities and entertainment options, especially in Rock Rapids.
-- [Rockrapids.GUIDE](https://rockrapids.github.io/FOSS/3/): Providing civic, school, church, sheriff, highway patrol, roads, EMT/Fire and public service guideance
+- [Rockrapids.GUIDE](https://rockrapids.github.io/FOSS/3/): City, school, daycare, church, sheriff, highway patrol, road condition, EMT/Fire and public service guideance
 - [Rockrapids.SHOP](https://rockrapids.github.io/FOSS/4/): Featuring retail promotions and shopping events of Rock Rapids merchants/vendors.
 - [Rockrapids.STORE](https://rockrapids.github.io/FOSS/5/): Listing marketplace items and products for sale that showcase locally available items.
 - [Rockrapids.WORK](https://rockrapids.github.io/FOSS/6/): Connecting people with employment opportunities
