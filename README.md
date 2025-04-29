@@ -1,6 +1,8 @@
-# COGNITIVE TOOLS FOR FREE CITIZENS OF LYON COUNTY
+# Lyon County Intelligence Gathering
 
-In this bright year 2025, the digital landscape resembles nothing so much as ancient Rome—magnificent, crowded, and utterly resistant to architectural innovation. Platform loyalties are settled with the finality of religious conversion. Another app? ***Meh*** ... Save your breath and development time -- nobody cares; nobody wants to go back to 2010.
+In this bright year 2025, the digital landscape resembles nothing so much as ancient Rome—magnificent, crowded, and utterly resistant to architectural innovation. Platform loyalties are settled with the finality of religious conversion. 
+
+But, another app? ***Meh*** ... Save your breath and development time -- nobody cares. Only folks who belong in the nursing home need to look in the rear view mirror and drive toward to what worked ten or fifteen or fifty years ago.
 
 Our project operates on a principle the military discovered millennia ago: **INTELLIGENCE wins wars**, not the nice ass or app that's ridden into battle. We're building an API-first cognitive framework using Rust—because when information is ammunition, we don't tolerate delays, misfires or insecure information. Our implementation slashes latency to by orders of magnitude because in intelligence work, yesterday's data or something you wanted work on fifteen minutes ago is as useful as yesterday's weather report.
 
@@ -10,7 +12,7 @@ A citizen that works with their options to create something unique is FREE; a pa
 
 ## About the Project
 
-The Rock Rapids community applications ecosystem consists of eight interconnected web applications, each addressing specific aspects of community life:
+The Rock Rapids Intelligence Gathering Applications ecosystem consists of eight interconnected web applications, each addressing specific aspects in which information is of paramount importance for healthy community life:
 
 - [Rockrapids.INFO](https://rockrapids.github.io/FOSS/0/): The central hub and top-level gateway to all Rock Rapids applications
 - [Rockrapids.ART](https://rockrapids.github.io/FOSS/1/): Information about arts, crafts, creative endeavors that showcases Rock Rapids citizens.
@@ -42,7 +44,7 @@ If you're interested in adapting this ecosystem for your own community:
 
 ## Contributing
 
-This project is designed to be built and maintained by volunteers from the Rock Rapids community. If you're a resident of Rock Rapids or the surrounding area and would like to contribute, please:
+This project is designed to be built and maintained by volunteers from Lyon County and/or the Rock Rapids community. If you're a resident of Rock Rapids, or Lyon County, or maybe the surrounding area and would like to contribute, please:
 
 1. Review our [Contributing Guidelines](CONTRIBUTING.md)
 2. Familiarize yourself with our [Code of Conduct](CODE_OF_CONDUCT.md)
